@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan253&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Srujan253/Srujan253/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Srujan253&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
