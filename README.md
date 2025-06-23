@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Web Development and Cyber Security<br>💻 Tech Stack: `React` | `Node.js` | `Express` | `MongoDB` | `Python` | `Linux`  <br>📊 Currently Exploring: `Data Science` & `Blockchain Integration` in Web Projects  <br>📫 Reach me: **srujanhm135@gmail.com**  <br>📍 Location: India  
+🌱 I’m currently learning Full Stack Web Development and Cyber Security<br>💻 Tech Stack: `React` | `Node.js` | `Express` | `MongoDB` | `Python` | `Linux`  <br>📊 Currently Exploring: `Data Science` & `AI Integration` in Web Projects  <br>📫 Reach me: **srujanhm135@gmail.com**  <br>📍 Location: India  
 
 
 ## 🌐 Socials:
